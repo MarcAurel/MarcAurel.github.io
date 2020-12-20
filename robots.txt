@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://marc-aurel.fr/sitemap.xml
